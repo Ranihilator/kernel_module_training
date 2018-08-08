@@ -14,7 +14,8 @@
 
 # Precompiled Headers
 *.gch
-*.pch
+*.pchs
+*.mk
 
 # Libraries
 *.lib
@@ -41,6 +42,9 @@
 *.su
 *.idb
 *.pdb
+
+# Temporary files
+*.kate-swp
 
 # Kernel Module Compile Results
 *.mod*
