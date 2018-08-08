@@ -1,2 +1,3 @@
-# kernel_module_training
-Kernel module for training and example
+# Linux Kernel module
+
+This repository for training to creating linux kernel modules
